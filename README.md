@@ -38,8 +38,9 @@ I love the entire process of developing creative websites. I love the challenge 
 
 </br>
 
-![](https://img.shields.io/badge/Style-ChakraUI-informational?style=flat&logo=ChakraUi&color=8465B8)
+![](https://img.shields.io/badge/Style-ChakraUI-informational?style=flat&logo=ChakraUi&color=00C7B7)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-MaterialUi-informational?style=flat&logo=MaterialUi&color=purple)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
 
@@ -58,4 +59,4 @@ I love the entire process of developing creative websites. I love the challenge 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajDongre-16&layout=compact)](https://github.com/surajDongre-16)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=surajDongre-16.surajDongre-16)](https://suraj-dongre.netlify.app/)
-view rawREADME.txt hosted with ❤ by GitHub
+
