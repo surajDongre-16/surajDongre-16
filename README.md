@@ -1,10 +1,10 @@
 
 <p align="center">
-  <a href="https://suraj-dongre.netlify.app/" target="_blank" rel="noreferrer"><img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/></a>
+  <a href="https://suraj-dev.netlify.app/" target="_blank" rel="noreferrer"><img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/></a>
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://suraj-dongre.netlify.app/" target="_blank" rel="noreferrer">Suraj</a> 👋
+Hi there, I'm <a href="https://suraj-dev.netlify.app/" target="_blank" rel="noreferrer">Suraj</a> 👋
 </h3>
 
 <h2 align="center">
