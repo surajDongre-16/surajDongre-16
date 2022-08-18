@@ -8,7 +8,7 @@ Hi there, I'm <a href="https://suraj-dev.netlify.app/" target="_blank" rel="nore
 </h3>
 
 <h2 align="center">
-I'm a Front-End Developer 💻, Designer 🎨, and Fitness lover 💪!
+I'm a Full-Stack Web Developer 💻, Designer 🎨, and Fitness lover 💪!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning Full Stack Web Development Course at Masai ❤️.
