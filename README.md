@@ -23,7 +23,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🔭 I'm currently working on
 
 - My projects
-- Urban Company-Clone (React-Redux)
+- Fraazo-Clone (React-Redux,typescript)
 
 ## 🌱 I'm currently learning
 
