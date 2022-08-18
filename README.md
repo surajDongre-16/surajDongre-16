@@ -55,7 +55,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 📈 GitHub Stats 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=surajDongre-16.surajDongre-16)](https://suraj-dongre.netlify.app/)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajDongre-16" alt="surajDongre-16" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajDongre-16" alt="surajDongre-16" /></a> </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=surajDongre-16)](https://github.com/surajDongre-16)
 
@@ -63,5 +63,4 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <div align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surajDongre-16" alt="surajDongre-16" /></div>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=surajDongre-16.surajDongre-16)](https://suraj-dongre.netlify.app/)
 
