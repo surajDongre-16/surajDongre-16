@@ -59,7 +59,7 @@ I love the entire process of developing creative websites. I love the challenge 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajDongre-16&layout=compact)](https://github.com/surajDongre-16)
 
  <h1>
- <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishtmtmt&" alt="manishtmtmt" /></div>
+ <div align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surajDongre-16" alt="surajDongre-16" /></div>
 
 </h1>
 
