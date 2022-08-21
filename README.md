@@ -44,7 +44,6 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Style-MaterialUi-informational?style=flat&logo=MaterialUi&color=purple)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
-
 </br>
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
