@@ -33,7 +33,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodejs&color=#79aa5d)
-![](https://img.shields.io/badge/Code-Mongoose-informational?style=flat&logo=mongoose&color=#880000)
+![](https://img.shields.io/badge/Code-Mongoose-informational?style=flat&logo=mongoose&color=CB3837)
 ![](https://img.shields.io/badge/Code-Mongodb-informational?style=flat&logo=mongodb&color=#116149)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&color=#466a9c)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
