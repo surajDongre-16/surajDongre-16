@@ -20,11 +20,6 @@ I love the entire process of developing creative websites. I love the challenge 
 - 📫 How to reach me **surajdongre8@gmail.com**
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
-
-- My projects
-- Fraazo-Clone (React-Redux,typescript)
-
 ## 🌱 I'm currently learning
 
 - Full Stack Web Development
