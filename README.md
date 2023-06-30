@@ -52,7 +52,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 
 ## 📈 GitHub Stats 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=surajDongre-16.surajDongre-16)](https://suraj-dongre.netlify.app/)
+![surajDongre-16](https://komarev.com/ghpvc/?username=surajDongre-16&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajDongre-16" alt="surajDongre-16" /></a> </p>  -->
 
